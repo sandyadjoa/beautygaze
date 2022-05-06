@@ -1,6 +1,6 @@
 from django.conf import settings
 from django.contrib.admin import *
-from django.conf.urls import url
+
 from django.conf.urls.static import static
 from django.urls import path
 from backend.views import *

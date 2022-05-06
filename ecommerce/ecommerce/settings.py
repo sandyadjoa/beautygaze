@@ -71,11 +71,11 @@ WSGI_APPLICATION = 'ecommerce.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'sandra_ecommerce',
-	'HOST': 'localhost',
-	'USER': 'root',
-	'PORT': '8889',
-	'PASSWORD': '@cc0mf0rd'
+        'NAME': 'beautygaze_ecommerce',
+        'HOST': 'localhost',
+        'USER': 'root',
+        'PORT': '8889',
+        'PASSWORD': 'root'
     }
 }
 
